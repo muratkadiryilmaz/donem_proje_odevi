@@ -1,4 +1,4 @@
-/*
+/*  
     Murat Kadir Yilmaz - 252104012
     Dönem ödevi 1.Soru 2.Alıstırma
     -------------------------------------------
@@ -55,3 +55,4 @@ int main() { // Ana fonksiyon.
     return 0; // Programı başarıyla sonlandır.
 
 }
+
