@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem Ödevi 5.soru
     -------------------------------------------
     Bu program 5x5 boyutunda bir labirenti temsil eder ve
@@ -94,4 +95,5 @@ int main() { // Ana fonksiyon.
     }
 
     return 0; // Programı başarıyla sonlandırıldı.
+
 }
