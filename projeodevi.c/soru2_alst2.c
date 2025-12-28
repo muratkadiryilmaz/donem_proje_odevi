@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem Ödevi 2.Soru 2.Alıstırma
     -------------------------------------------
     Bu program, kullanıcıdan alınan bir n değeriyle
@@ -36,3 +37,4 @@ int main() { // Ana fonksiyon.
 
     return 0; // Programı başarıyla sonlandır.
 }
+
