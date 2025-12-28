@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem Ödevi 2.Soru 1.Alıstırma
     -------------------------------------------
     Bu program özyinelemeli (recursive) fonksiyon kullanarak
@@ -34,4 +35,5 @@ int main() { // Ana Fonksiyon.
     printf("\n"); // Görüntü düzgün olsun diye satır sonu.
     
     return 0; // Programı başarıyla sonlandır.
+
 }
