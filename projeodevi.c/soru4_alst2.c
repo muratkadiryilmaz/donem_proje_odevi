@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem Ödevi 4.Soru 2.Alıstırma
     -------------------------------------------
     Bu program, daha önce Sezar şifreleme yöntemiyle
@@ -48,3 +49,4 @@ int main(){ // Ana fonksiyon.
 
     return 0; // Program başarıyla sonlandırıldı.
 }
+
