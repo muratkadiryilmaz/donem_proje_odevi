@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem Ödevi 3.Soru
     -------------------------------------------
     Bu program 3 harfli "isim" kombinasyonları üretir.
@@ -55,4 +56,5 @@ int main() { // Ana fonksiyon.
     printf("\nToplam %d gecerli isim bulundu.\n", isim); // Toplam kaç geçerli isim bulunduğunu yazdır.
 
     return 0; // Programı başarıyla sonlandır.
+
 }
