@@ -37,5 +37,6 @@ int main() { // Ana fonksiyon.
     }
     printf(" (%dK)\n",dizi[i]); // Satırın sonunda ayın ciro miktarını parantez içinde göster.
 }
+    
     return 0; // Programı başarıyla sonlandır.
 }
