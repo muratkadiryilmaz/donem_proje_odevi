@@ -1,4 +1,5 @@
-/*  Murat Kadir Yılmaz - 252104012
+/*  
+    Murat Kadir Yılmaz - 252104012
     Dönem ödevi 1.Soru 1.Alıstırma
     -------------------------------------------
     Program, 12 ayin ciro degerlerini 1K - 10K araliginda rastgele uretir.
@@ -40,3 +41,4 @@ int main() { // Ana fonksiyon.
     
     return 0; // Programı başarıyla sonlandır.
 }
+
